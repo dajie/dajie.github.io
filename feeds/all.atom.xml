@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-11-23T06:00:00+09:00</updated><entry><title>Pelicanを使ってみる</title><link href="/use%20pelican.html" rel="alternate"></link><updated>2015-11-23T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-23:use pelican.html</id><summary type="html">&lt;h2&gt;Pelicanを使ってみる&lt;/h2&gt;
+&lt;p&gt;下記サイトを参考にこのサイトを作成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.sotm.jp/2014/01/04/Pelican-Markdown-GithubPages-install-guide/"&gt;Pelican + Markdown + GitHub Pagesで管理するブログの作り方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pelicanを使った理由は個人的にpythonが好きだった以外の理由はない。
+今ハマっているfxのことなどを中心に書いていく予定。&lt;/p&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
