@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-11-29T20:00:00+09:00</updated><entry><title>Raspberry Pi モバイルバッテリをUPS計画</title><link href="/raspi_ups.html" rel="alternate"></link><updated>2015-11-29T20:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:raspi_ups.html</id><summary type="html">&lt;p&gt;Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-11-29T21:00:00+09:00</updated><entry><title>Fx運用 5週目</title><link href="/fx_week_5.html" rel="alternate"></link><updated>2015-11-29T21:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:fx_week_5.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;総資産&lt;/th&gt;
+&lt;th align="right"&gt;448803.53円&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;5週目の利益&lt;/td&gt;
+&lt;td align="right"&gt;2798.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;4週目の利益&lt;/td&gt;
+&lt;td align="right"&gt;4146.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;3週目の利益&lt;/td&gt;
+&lt;td align="right"&gt;3006.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;2週目の利益&lt;/td&gt;
+&lt;td align="right"&gt;3498.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;1週目の利益&lt;/td&gt;
+&lt;td align="right"&gt;5353.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;先週と比べると取引数が半分くらいになっているので、
+仕方ない数字とは思える。&lt;/p&gt;
+&lt;p&gt;来週は値動きが大きそうなので設定は変更せず流しておく。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Raspberry Pi モバイルバッテリをUPS計画</title><link href="/raspi_ups.html" rel="alternate"></link><updated>2015-11-29T20:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:raspi_ups.html</id><summary type="html">&lt;p&gt;Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
 ちょっとした停電でも耐えられるようにしたいので安いUPS代わりがないか調べていた。&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://d.hatena.ne.jp/kappaseijin/20150309/1425901901"&gt;http://d.hatena.ne.jp/kappaseijin/20150309/1425901901&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;に安めのモバイルバッテリが書かれていたので勇気を出して買ってみた。&lt;/p&gt;
