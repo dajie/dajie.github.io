@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-11-27T05:00:00+09:00</updated><entry><title>Fx運用 2015/11/26</title><link href="/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-27:fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-11-29T20:00:00+09:00</updated><entry><title>Raspberry Pi モバイルバッテリをUPS計画</title><link href="/raspi_ups.html" rel="alternate"></link><updated>2015-11-29T20:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:raspi_ups.html</id><summary type="html">&lt;p&gt;Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
+ちょっとした停電でも耐えられるようにしたいので安いUPS代わりがないか調べていた。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://d.hatena.ne.jp/kappaseijin/20150309/1425901901"&gt;http://d.hatena.ne.jp/kappaseijin/20150309/1425901901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;に安めのモバイルバッテリが書かれていたので勇気を出して買ってみた。&lt;/p&gt;
+&lt;iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;nou=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=letitbe0e-22&amp;o=9&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;ref=qf_sp_asin_til&amp;asins=B00KJ7TSDE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;直接コンセントからの充電とバッテリからの充電の切り替えのタイミングで落ちてしまっている。
+真面目にUPS買うことを検討した方が良さそうだ。&lt;/p&gt;</summary><category term="raspberry pi"></category></entry><entry><title>Fx運用 2015/11/27</title><link href="/fx_20151127.html" rel="alternate"></link><updated>2015-11-28T12:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-28:fx_20151127.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;総資産&lt;/th&gt;
+&lt;th align="right"&gt;448803.53円&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;今週の利益&lt;/td&gt;
+&lt;td align="right"&gt;2798.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;月&lt;/td&gt;
+&lt;td align="right"&gt;415.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;火&lt;/td&gt;
+&lt;td align="right"&gt;273.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;水&lt;/td&gt;
+&lt;td align="right"&gt;1178.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;木&lt;/td&gt;
+&lt;td align="right"&gt;253.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;金&lt;/td&gt;
+&lt;td align="right"&gt;677.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;昨日よりは稼いでくれた。&lt;/p&gt;
+&lt;p&gt;今週は2798円と5000円が目標なのでボロボロだが、
+来週はFxの重要な指標のアメリカの雇用統計の発表があるので稼ぎやすいはず。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/26</title><link href="/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-27:fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -10,7 +54,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;今週の利益&lt;/td&gt;
-&lt;td align="right"&gt;2121.3円&lt;/td&gt;
+&lt;td align="right"&gt;2121.3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;月&lt;/td&gt;
@@ -39,7 +83,7 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;総資産&lt;/th&gt;
-&lt;th align="right"&gt;447872.97&lt;/th&gt;
+&lt;th align="right"&gt;447872.97円&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;

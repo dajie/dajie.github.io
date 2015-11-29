@@ -2,7 +2,7 @@
 <html lang="jp"
 >
 <head>
-    <title>dajie blog</title>
+    <title>Raspberry Pi モバイルバッテリをUPS計画 - dajie blog</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,15 +10,21 @@
 
 
 
-<link rel="canonical" href="">
-        <meta name="author" content="dajie" />
+<link rel="canonical" href="/raspi_ups.html">
 
-    <!-- Open Graph tags -->
+        <meta name="author" content="dajie" />
+        <meta name="keywords" content="raspberry pi" />
+        <meta name="description" content="モバイルバッテリをUPS計画" />
+
         <meta property="og:site_name" content="dajie blog" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="dajie blog"/>
-        <meta property="og:url" content=""/>
-        <meta property="og:description" content="dajie blog"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Raspberry Pi モバイルバッテリをUPS計画"/>
+        <meta property="og:url" content="/raspi_ups.html"/>
+        <meta property="og:description" content="モバイルバッテリをUPS計画"/>
+        <meta property="article:published_time" content="2015-11-29" />
+            <meta property="article:section" content="raspberry pi" />
+            <meta property="article:tag" content="raspberry pi" />
+            <meta property="article:author" content="dajie" />
 
 
     <!-- Bootstrap -->
@@ -54,7 +60,7 @@ dajie blog            </a>
                         <li >
                             <a href="/category/python.html">Python</a>
                         </li>
-                        <li >
+                        <li class="active">
                             <a href="/category/raspberry-pi.html">Raspberry pi</a>
                         </li>
             </ul>
@@ -71,48 +77,45 @@ dajie blog            </a>
     <div class="row">
         <div class="col-sm-9">
 
-            <article>
-                <h2><a href="/raspi_ups.html">Raspberry Pi モバイルバッテリをUPS計画</a></h2>
-                <div class="summary"><p>モバイルバッテリをUPS計画</p>
-                    <a class="btn btn-default btn-xs" href="/raspi_ups.html">more ...</a>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/raspi_ups.html"
+                       rel="bookmark"
+                       title="Permalink to Raspberry Pi モバイルバッテリをUPS計画">
+                        Raspberry Pi モバイルバッテリをUPS計画
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2015-11-29T20:00:00+09:00"> 日 29 11月 2015</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="/tag/raspberry-pi.html">raspberry pi</a>
+    
+</footer><!-- /.post-info -->                    </div>
                 </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="/fx_20151127.html">Fx運用 2015/11/27</a></h2>
-                <div class="summary"><p>Fx運用 2015/11/27 プラス253円</p>
-                    <a class="btn btn-default btn-xs" href="/fx_20151127.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="/fx_20151126.html">Fx運用 2015/11/26</a></h2>
-                <div class="summary"><p>Fx運用 2015/11/26 プラス253円</p>
-                    <a class="btn btn-default btn-xs" href="/fx_20151126.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="/fx_20151125.html">Fx運用 2015/11/25</a></h2>
-                <div class="summary"><p>Fx運用 2015/11/25 プラス1178円</p>
-                    <a class="btn btn-default btn-xs" href="/fx_20151125.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="/tag_cloud.html">Tag Cloud</a></h2>
-                <div class="summary"><p>Pelican Tag Cloudの設定</p>
-                    <a class="btn btn-default btn-xs" href="/tag_cloud.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="/first-post.html">Pelicanを使ってみる</a></h2>
-                <div class="summary"><p>Pelicanを使ってみる</p>
-                    <a class="btn btn-default btn-xs" href="/first-post.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
+                <p>Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
+ちょっとした停電でも耐えられるようにしたいので安いUPS代わりがないか調べていた。</p>
+<p><a href="http://d.hatena.ne.jp/kappaseijin/20150309/1425901901">http://d.hatena.ne.jp/kappaseijin/20150309/1425901901</a></p>
+<p>に安めのモバイルバッテリが書かれていたので勇気を出して買ってみた。</p>
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=letitbe0e-22&o=9&p=8&l=as1&m=amazon&f=ifr&ref=qf_sp_asin_til&asins=B00KJ7TSDE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<p>直接コンセントからの充電とバッテリからの充電の切り替えのタイミングで落ちてしまっている。
+真面目にUPS買うことを検討した方が良さそうだ。</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
         </div>
         <div class="col-sm-3" id="sidebar">
