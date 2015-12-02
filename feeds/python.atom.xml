@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="dajie.github.io/" rel="alternate"></link><link href="dajie.github.io/feeds/python.atom.xml" rel="self"></link><id>dajie.github.io/</id><updated>2015-11-25T05:00:00+09:00</updated><entry><title>Tag Cloud</title><link href="dajie.github.io/tag_cloud.html" rel="alternate"></link><updated>2015-11-25T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-25:dajie.github.io/tag_cloud.html</id><summary type="html">&lt;p&gt;テーマを入れ替えてもTagsに何も反映されないので、
+どうしてかいろいろ見てみた。&lt;/p&gt;
+&lt;p&gt;tag_cloud プラグインが使われているっぽい感じだったので、入れてみると動作した。&lt;/p&gt;
+&lt;p&gt;６月くらいのバージョンアップからデフォルトの機能から外されたのが原因のようだ。&lt;/p&gt;</summary><category term="python"></category><category term="pelican"></category></entry><entry><title>Pelicanを使ってみる</title><link href="dajie.github.io/first-post.html" rel="alternate"></link><updated>2015-11-23T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-23:dajie.github.io/first-post.html</id><summary type="html">&lt;p&gt;下記サイトを参考にこのサイトを作成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.sotm.jp/2014/01/04/Pelican-Markdown-GithubPages-install-guide/"&gt;Pelican + Markdown + GitHub Pagesで管理するブログの作り方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pelicanを使った理由は個人的にpythonが好きだった以外の理由はない。&lt;/p&gt;
+&lt;p&gt;今ハマっているfxのことなどを中心に書いていく予定。&lt;/p&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
