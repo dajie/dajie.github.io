@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="dajie.github.io/" rel="alternate"></link><link href="dajie.github.io/feeds/fx.atom.xml" rel="self"></link><id>dajie.github.io/</id><updated>2015-12-03T05:00:00+09:00</updated><entry><title>Fx運用 2015/12/02</title><link href="dajie.github.io/fx_20151202.html" rel="alternate"></link><updated>2015-12-03T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-03:dajie.github.io/fx_20151202.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/fx.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-03T05:00:00+09:00</updated><entry><title>Fx運用 2015/12/02</title><link href="http://dajie.github.io/fx_20151202.html" rel="alternate"></link><updated>2015-12-03T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-03:fx_20151202.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -35,7 +35,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;今日も千円を超えられた。
-先週ボロボロだった分を取り返してくれそう。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/12/01</title><link href="dajie.github.io/fx_20151201.html" rel="alternate"></link><updated>2015-12-02T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-02:dajie.github.io/fx_20151201.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+先週ボロボロだった分を取り返してくれそう。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/12/01</title><link href="http://dajie.github.io/fx_20151201.html" rel="alternate"></link><updated>2015-12-02T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-02:fx_20151201.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -72,7 +72,7 @@
 &lt;/table&gt;
 &lt;p&gt;今日はオーストラリアの取引が活発で、
 収益の要になっていた。&lt;/p&gt;
-&lt;p&gt;USD/JPYがメインだがAUD/JPYとGBP/JPYにも分散しているのは良かったかも。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/30</title><link href="dajie.github.io/fx_20151130.html" rel="alternate"></link><updated>2015-12-01T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-01:dajie.github.io/fx_20151130.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;p&gt;USD/JPYがメインだがAUD/JPYとGBP/JPYにも分散しているのは良かったかも。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/30</title><link href="http://dajie.github.io/fx_20151130.html" rel="alternate"></link><updated>2015-12-01T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-01:fx_20151130.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -109,7 +109,7 @@
 &lt;/table&gt;
 &lt;p&gt;今日は予想以上に稼いでくれた。&lt;/p&gt;
 &lt;p&gt;週後半には雇用統計の発表もあるから目標の5千円は超えられそうな予感。&lt;/p&gt;
-&lt;p&gt;Fxを運用してやっとプラス2万円になった。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 5週目</title><link href="dajie.github.io/fx_week_5.html" rel="alternate"></link><updated>2015-11-29T21:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:dajie.github.io/fx_week_5.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;p&gt;Fxを運用してやっとプラス2万円になった。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 5週目</title><link href="http://dajie.github.io/fx_week_5.html" rel="alternate"></link><updated>2015-11-29T21:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-29:fx_week_5.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -142,7 +142,7 @@
 &lt;/table&gt;
 &lt;p&gt;先週と比べると取引数が半分くらいになっているので、
 仕方ない数字とは思える。&lt;/p&gt;
-&lt;p&gt;来週は値動きが大きそうなので設定は変更せず流しておく。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/27</title><link href="dajie.github.io/fx_20151127.html" rel="alternate"></link><updated>2015-11-28T12:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-28:dajie.github.io/fx_20151127.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;p&gt;来週は値動きが大きそうなので設定は変更せず流しておく。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/27</title><link href="http://dajie.github.io/fx_20151127.html" rel="alternate"></link><updated>2015-11-28T12:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-28:fx_20151127.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -179,7 +179,7 @@
 &lt;/table&gt;
 &lt;p&gt;昨日よりは稼いでくれた。&lt;/p&gt;
 &lt;p&gt;今週は2798円と5000円が目標なのでボロボロだが、
-来週はFxの重要な指標のアメリカの雇用統計の発表があるので稼ぎやすいはず。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/26</title><link href="dajie.github.io/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-27:dajie.github.io/fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+来週はFxの重要な指標のアメリカの雇用統計の発表があるので稼ぎやすいはず。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/26</title><link href="http://dajie.github.io/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-27:fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -215,7 +215,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;予想通り感謝祭で変動が小さいため余り稼いでくれていなかった。&lt;/p&gt;
-&lt;p&gt;取引回数が少なくてダメだったのか、UNIT数の調整が間違っていたのか週末検討する。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/25</title><link href="dajie.github.io/fx_20151125.html" rel="alternate"></link><updated>2015-11-26T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-26:dajie.github.io/fx_20151125.html</id><summary type="html">&lt;table&gt;
+&lt;p&gt;取引回数が少なくてダメだったのか、UNIT数の調整が間違っていたのか週末検討する。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/25</title><link href="http://dajie.github.io/fx_20151125.html" rel="alternate"></link><updated>2015-11-26T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-26:fx_20151125.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;総資産&lt;/th&gt;

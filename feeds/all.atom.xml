@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="dajie.github.io/" rel="alternate"></link><link href="dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>dajie.github.io/</id><updated>2015-12-03T05:00:00+09:00</updated><entry><title>Fx運用 2015/12/02</title><link href="dajie.github.io/fx_20151202.html" rel="alternate"></link><updated>2015-12-03T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-03:dajie.github.io/fx_20151202.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-03T05:00:00+09:00</updated><entry><title>Fx運用 2015/12/02</title><link href="http://dajie.github.io/fx_20151202.html" rel="alternate"></link><updated>2015-12-03T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-03:fx_20151202.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -35,7 +35,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;今日も千円を超えられた。
-先週ボロボロだった分を取り返してくれそう。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/12/01</title><link href="dajie.github.io/fx_20151201.html" rel="alternate"></link><updated>2015-12-02T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-02:dajie.github.io/fx_20151201.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+先週ボロボロだった分を取り返してくれそう。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/12/01</title><link href="http://dajie.github.io/fx_20151201.html" rel="alternate"></link><updated>2015-12-02T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-02:fx_20151201.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -72,7 +72,7 @@
 &lt;/table&gt;
 &lt;p&gt;今日はオーストラリアの取引が活発で、
 収益の要になっていた。&lt;/p&gt;
-&lt;p&gt;USD/JPYがメインだがAUD/JPYとGBP/JPYにも分散しているのは良かったかも。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/30</title><link href="dajie.github.io/fx_20151130.html" rel="alternate"></link><updated>2015-12-01T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-12-01:dajie.github.io/fx_20151130.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;p&gt;USD/JPYがメインだがAUD/JPYとGBP/JPYにも分散しているのは良かったかも。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/30</title><link href="http://dajie.github.io/fx_20151130.html" rel="alternate"></link><updated>2015-12-01T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-01:fx_20151130.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -109,7 +109,7 @@
 &lt;/table&gt;
 &lt;p&gt;今日は予想以上に稼いでくれた。&lt;/p&gt;
 &lt;p&gt;週後半には雇用統計の発表もあるから目標の5千円は超えられそうな予感。&lt;/p&gt;
-&lt;p&gt;Fxを運用してやっとプラス2万円になった。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 5週目</title><link href="dajie.github.io/fx_week_5.html" rel="alternate"></link><updated>2015-11-29T21:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:dajie.github.io/fx_week_5.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;p&gt;Fxを運用してやっとプラス2万円になった。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 5週目</title><link href="http://dajie.github.io/fx_week_5.html" rel="alternate"></link><updated>2015-11-29T21:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-29:fx_week_5.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -142,14 +142,14 @@
 &lt;/table&gt;
 &lt;p&gt;先週と比べると取引数が半分くらいになっているので、
 仕方ない数字とは思える。&lt;/p&gt;
-&lt;p&gt;来週は値動きが大きそうなので設定は変更せず流しておく。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Raspberry Pi モバイルバッテリをUPS計画</title><link href="dajie.github.io/raspi_ups.html" rel="alternate"></link><updated>2015-11-29T20:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-29:dajie.github.io/raspi_ups.html</id><summary type="html">&lt;p&gt;Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
+&lt;p&gt;来週は値動きが大きそうなので設定は変更せず流しておく。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Raspberry Pi モバイルバッテリをUPS計画</title><link href="http://dajie.github.io/raspi_ups.html" rel="alternate"></link><updated>2015-11-29T20:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-29:raspi_ups.html</id><summary type="html">&lt;p&gt;Fxの自動取引にRaspberry Pi を使って24時間取引しているので、
 ちょっとした停電でも耐えられるようにしたいので安いUPS代わりがないか調べていた。&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://d.hatena.ne.jp/kappaseijin/20150309/1425901901"&gt;http://d.hatena.ne.jp/kappaseijin/20150309/1425901901&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;に安めのモバイルバッテリが書かれていたので勇気を出して買ってみた。&lt;/p&gt;
 &lt;iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;nou=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=letitbe0e-22&amp;o=9&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;ref=qf_sp_asin_til&amp;asins=B00KJ7TSDE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;直接コンセントからの充電とバッテリからの充電の切り替えのタイミングで落ちてしまっている。
-真面目にUPS買うことを検討した方が良さそうだ。&lt;/p&gt;</summary><category term="raspberry pi"></category></entry><entry><title>Fx運用 2015/11/27</title><link href="dajie.github.io/fx_20151127.html" rel="alternate"></link><updated>2015-11-28T12:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-28:dajie.github.io/fx_20151127.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+真面目にUPS買うことを検討した方が良さそうだ。&lt;/p&gt;</summary><category term="raspberry pi"></category></entry><entry><title>Fx運用 2015/11/27</title><link href="http://dajie.github.io/fx_20151127.html" rel="alternate"></link><updated>2015-11-28T12:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-28:fx_20151127.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -186,7 +186,7 @@
 &lt;/table&gt;
 &lt;p&gt;昨日よりは稼いでくれた。&lt;/p&gt;
 &lt;p&gt;今週は2798円と5000円が目標なのでボロボロだが、
-来週はFxの重要な指標のアメリカの雇用統計の発表があるので稼ぎやすいはず。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/26</title><link href="dajie.github.io/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-27:dajie.github.io/fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+来週はFxの重要な指標のアメリカの雇用統計の発表があるので稼ぎやすいはず。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/26</title><link href="http://dajie.github.io/fx_20151126.html" rel="alternate"></link><updated>2015-11-27T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-27:fx_20151126.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -222,7 +222,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;予想通り感謝祭で変動が小さいため余り稼いでくれていなかった。&lt;/p&gt;
-&lt;p&gt;取引回数が少なくてダメだったのか、UNIT数の調整が間違っていたのか週末検討する。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/25</title><link href="dajie.github.io/fx_20151125.html" rel="alternate"></link><updated>2015-11-26T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-26:dajie.github.io/fx_20151125.html</id><summary type="html">&lt;table&gt;
+&lt;p&gt;取引回数が少なくてダメだったのか、UNIT数の調整が間違っていたのか週末検討する。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/11/25</title><link href="http://dajie.github.io/fx_20151125.html" rel="alternate"></link><updated>2015-11-26T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-26:fx_20151125.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;総資産&lt;/th&gt;
@@ -258,10 +258,10 @@
 &lt;/table&gt;
 &lt;p&gt;今週から資産を増やして運用して、週5000円くらいが目標なので、
  やっと一日平均の目標を超えられた。&lt;/p&gt;
-&lt;p&gt;26日からアメリカが休みなので取引量が減って今週はボロボロな予想。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Tag Cloud</title><link href="dajie.github.io/tag_cloud.html" rel="alternate"></link><updated>2015-11-25T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-25:dajie.github.io/tag_cloud.html</id><summary type="html">&lt;p&gt;テーマを入れ替えてもTagsに何も反映されないので、
+&lt;p&gt;26日からアメリカが休みなので取引量が減って今週はボロボロな予想。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Tag Cloud</title><link href="http://dajie.github.io/tag_cloud.html" rel="alternate"></link><updated>2015-11-25T05:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-25:tag_cloud.html</id><summary type="html">&lt;p&gt;テーマを入れ替えてもTagsに何も反映されないので、
 どうしてかいろいろ見てみた。&lt;/p&gt;
 &lt;p&gt;tag_cloud プラグインが使われているっぽい感じだったので、入れてみると動作した。&lt;/p&gt;
-&lt;p&gt;６月くらいのバージョンアップからデフォルトの機能から外されたのが原因のようだ。&lt;/p&gt;</summary><category term="python"></category><category term="pelican"></category></entry><entry><title>Pelicanを使ってみる</title><link href="dajie.github.io/first-post.html" rel="alternate"></link><updated>2015-11-23T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:,2015-11-23:dajie.github.io/first-post.html</id><summary type="html">&lt;p&gt;下記サイトを参考にこのサイトを作成&lt;/p&gt;
+&lt;p&gt;６月くらいのバージョンアップからデフォルトの機能から外されたのが原因のようだ。&lt;/p&gt;</summary><category term="python"></category><category term="pelican"></category></entry><entry><title>Pelicanを使ってみる</title><link href="http://dajie.github.io/first-post.html" rel="alternate"></link><updated>2015-11-23T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-11-23:first-post.html</id><summary type="html">&lt;p&gt;下記サイトを参考にこのサイトを作成&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://blog.sotm.jp/2014/01/04/Pelican-Markdown-GithubPages-install-guide/"&gt;Pelican + Markdown + GitHub Pagesで管理するブログの作り方&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
