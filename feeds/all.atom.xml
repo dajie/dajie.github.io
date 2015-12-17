@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-17T04:00:00+09:00</updated><entry><title>Fx運用 2015/12/16</title><link href="http://dajie.github.io/fx_20151216.html" rel="alternate"></link><updated>2015-12-17T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-17:fx_20151216.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-18T06:00:00+09:00</updated><entry><title>Raspberry Pi Wifi設定</title><link href="http://dajie.github.io/raspi_wifi.html" rel="alternate"></link><updated>2015-12-18T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-18:raspi_wifi.html</id><summary type="html">&lt;p&gt;Raspberry Pi2をもう一台買ってしまった。&lt;/p&gt;
+&lt;p&gt;NASの環境でもう一台外付けHDDをつなげてバックアップ体制を整えようと思っているが、
+Fxの取引も動かしているので簡単には止めれないのが面倒になったから。&lt;/p&gt;
+&lt;p&gt;今回はUSBのWifiドングルを買って接続しようとしたがうまく行かなくて困った。&lt;/p&gt;
+&lt;p&gt;最終的には下記のようなssidとpskのみにしたら接続出来た。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;# SSID=paselan, キー=himitsu123の場合&lt;/span&gt;
+$ &lt;span class="n"&gt;wpa_passphrase&lt;/span&gt; &lt;span class="n"&gt;paselan&lt;/span&gt; &lt;span class="n"&gt;himitsu123&lt;/span&gt;
+&lt;span class="n"&gt;network&lt;/span&gt;&lt;span class="p"&gt;={&lt;/span&gt;
+    &lt;span class="n"&gt;ssid&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;paselan&amp;quot;&lt;/span&gt;
+    &lt;span class="c"&gt;#psk=&amp;quot;himitsu123&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;psk&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;190863550&lt;span class="n"&gt;e8b4cf62f28747de7a6545c3ebb7c3e40af26a45811da549eae53a5&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;ネットで調べるとよくあるprot, key_mgmtとか書いてあるのは嫌われた。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;ctrl_interface&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;DIR&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;wpa_supplicant&lt;/span&gt; &lt;span class="n"&gt;GROUP&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;netdev&lt;/span&gt;
+&lt;span class="n"&gt;update_config&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;1
+
+&lt;span class="n"&gt;network&lt;/span&gt;&lt;span class="p"&gt;={&lt;/span&gt;
+    &lt;span class="n"&gt;ssid&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&amp;quot;接続先の&lt;span class="n"&gt;SSID&lt;/span&gt;&amp;quot;
+    &lt;span class="n"&gt;scan_ssid&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;1                  # &lt;span class="n"&gt;AP&lt;/span&gt;がステルスモードの場合は1、それ以外は0
+    &lt;span class="n"&gt;key_mgmt&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;WPA&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;PSK&lt;/span&gt;             # キーの種類
+    &lt;span class="n"&gt;proto&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;WPA2&lt;/span&gt;                   # &lt;span class="n"&gt;WPA&lt;/span&gt;とか&lt;span class="n"&gt;WPA2&lt;/span&gt;とか
+    &lt;span class="n"&gt;pairwise&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;CCMP&lt;/span&gt;                # &lt;span class="n"&gt;CCMP&lt;/span&gt;とか&lt;span class="n"&gt;TKIP&lt;/span&gt;とか
+    &lt;span class="n"&gt;group&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="n"&gt;CCMP&lt;/span&gt;                   # &lt;span class="n"&gt;CCMP&lt;/span&gt;とか&lt;span class="n"&gt;TKIP&lt;/span&gt;とか
+    &lt;span class="n"&gt;psk&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&amp;quot;接続先のキー&lt;span class="p"&gt;(&lt;/span&gt;16進数&lt;span class="p"&gt;)&lt;/span&gt;&amp;quot;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=letitbe0e-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00ESA34GA&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=letitbe0e-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B015PPWUZ2&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;</summary><category term="raspberry pi"></category></entry><entry><title>Fx運用 2015/12/17</title><link href="http://dajie.github.io/fx_20151217.html" rel="alternate"></link><updated>2015-12-18T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-18:fx_20151217.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;口座資産&lt;/th&gt;
+&lt;th align="right"&gt;474703.21円&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;評価損益&lt;/td&gt;
+&lt;td align="right"&gt;-27978.76&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;今週の利益&lt;/td&gt;
+&lt;td align="right"&gt;10872.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;月&lt;/td&gt;
+&lt;td align="right"&gt;3487.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;火&lt;/td&gt;
+&lt;td align="right"&gt;2444.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;水&lt;/td&gt;
+&lt;td align="right"&gt;2702.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;木&lt;/td&gt;
+&lt;td align="right"&gt;2237.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;金&lt;/td&gt;
+&lt;td align="right"&gt;0.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;評価損益が若干増えている。&lt;/p&gt;
+&lt;p&gt;来週から売りメインに切り替えるか悩む。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Fx運用 2015/12/16</title><link href="http://dajie.github.io/fx_20151216.html" rel="alternate"></link><updated>2015-12-17T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-17:fx_20151216.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;

@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>http://dajie.github.io/raspi_wifi.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://dajie.github.io/fx_20151217.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>http://dajie.github.io/fx_20151216.html</loc>
     <priority>0.8</priority>
   </url>
