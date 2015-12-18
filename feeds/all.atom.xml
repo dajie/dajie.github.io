@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-18T06:00:00+09:00</updated><entry><title>Raspberry Pi Wifi設定</title><link href="http://dajie.github.io/raspi_wifi.html" rel="alternate"></link><updated>2015-12-18T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-18:raspi_wifi.html</id><summary type="html">&lt;p&gt;Raspberry Pi2をもう一台買ってしまった。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dajie blog</title><link href="http://dajie.github.io/" rel="alternate"></link><link href="http://dajie.github.io/feeds/all.atom.xml" rel="self"></link><id>http://dajie.github.io/</id><updated>2015-12-19T04:00:00+09:00</updated><entry><title>Fx運用 2015/12/18</title><link href="http://dajie.github.io/fx_20151218.html" rel="alternate"></link><updated>2015-12-19T04:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-19:fx_20151218.html</id><summary type="html">&lt;p&gt;オレオレループイフダン運用&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;口座資産&lt;/th&gt;
+&lt;th align="right"&gt;480711.13円&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;評価損益&lt;/td&gt;
+&lt;td align="right"&gt;-54960.58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;今週の利益&lt;/td&gt;
+&lt;td align="right"&gt;14642.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;月&lt;/td&gt;
+&lt;td align="right"&gt;3487.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;火&lt;/td&gt;
+&lt;td align="right"&gt;2444.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;水&lt;/td&gt;
+&lt;td align="right"&gt;2702.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;木&lt;/td&gt;
+&lt;td align="right"&gt;2237.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;金&lt;/td&gt;
+&lt;td align="right"&gt;3770.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;マイナスが増えてしまった。
+１２５円くらいの円安にならないかな。&lt;/p&gt;</summary><category term="fx"></category></entry><entry><title>Raspberry Pi Wifi設定</title><link href="http://dajie.github.io/raspi_wifi.html" rel="alternate"></link><updated>2015-12-18T06:00:00+09:00</updated><author><name>dajie</name></author><id>tag:dajie.github.io,2015-12-18:raspi_wifi.html</id><summary type="html">&lt;p&gt;Raspberry Pi2をもう一台買ってしまった。&lt;/p&gt;
 &lt;p&gt;NASの環境でもう一台外付けHDDをつなげてバックアップ体制を整えようと思っているが、
 Fxの取引も動かしているので簡単には止めれないのが面倒になったから。&lt;/p&gt;
 &lt;p&gt;今回はUSBのWifiドングルを買って接続しようとしたがうまく行かなくて困った。&lt;/p&gt;
